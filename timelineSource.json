@@ -9,20 +9,23 @@
         "text": {
           "headline": "DOJ Blocks Merger of Rockford Memorial and SwedishAmerican Corporations",
           "text": "<p>In 1989, the Department of Justice filed a complaint to prevent and restrain the merger of Rockford Memorial Corporation and SwedishAmerican Corporation. The government also moved for a preliminary injunction to enjoin the companies from taking any action to proceed with the consolidation. The district court determined that the merger would likely hurt competition in the relevant market and, accordingly would violate the Clayton Act, and the Seventh Circuit <a href='https://www.dropbox.com/s/0e4wykph1u5xzgi/United_States_v_Rockford_Memo_.pdf'>affirmed</a>.</p>"
-        }
+        },
+         "background": {
+         "color": "#67af97"
+        }   
       },
       {               
         "start_date": {
           "month": "7",
           "day": "26",
-          "year": "1991"
+          "year": "1992"
         },
         "text": {
           "headline": "FTC Judge Dismisses FTC Challenge to Adventist Merger in Ukiah, CA",
           "text": "<p>In late 1989, the FTC issued an administrative complaint challenging the 1988 acquisition of a for-profit hospital in Ukiah, California by non-profit hospital chain Adventist, alleging that the acquisition endangered competition in the local general acute care hospital services market. On December 9, 1992, an administrative law judge dismissed the complaint on the merits, finding the acquisition not likely to be anticompetitive. FTC Docket No. 9234 (ALJ Dec. 9, 1992)</p>"
         },
          "background": {
-         "color": "#0f9bd1"
+         "color": "#c7cfd3"
         }       
       }
     ]
