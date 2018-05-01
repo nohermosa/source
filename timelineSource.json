@@ -20,6 +20,11 @@
         "text": {
           "headline": "FTC Judge Dismisses FTC Challenge to Adventist Merger in Ukiah, CA",
           "text": "<p>In late 1989, the FTC issued an administrative complaint challenging the 1988 acquisition of a for-profit hospital in Ukiah, California by non-profit hospital chain Adventist, alleging that the acquisition endangered competition in the local general acute care hospital services market. On December 9, 1992, an administrative law judge dismissed the complaint on the merits, finding the acquisition not likely to be anticompetitive. FTC Docket No. 9234 (ALJ Dec. 9, 1992)</p>"
+        },
+        {
+        "background" {
+         "color": #0f9bd1
+        }      
         }
       }
     ]
