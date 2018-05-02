@@ -68,7 +68,35 @@
         },
          "background": {
          "color": "#c7cfd3"
-      }
-      }
+        }
+      },
+      {
+        "start_date": {
+          "month": "7",
+          "day": "22",
+          "year": "1999"
+        },
+        "text": {
+          "headline": "8th Circuit Reverses of District Court’s Preliminary Injunction of Missouri Hospital Merger",
+          "text": "<p>On April 16, 1998, the FTC and Missouri Attorney General’s office challenged the acquisition of Doctors Regional Medical Center in Poplar Bluff, Missouri, by Tenet Healthcare Corp, as creating a virtual monopoly for acute care inpatient services. The district court  granted a preliminary injunction, ruling that the FTC was likely to succeed on the ultimate issue of whether the merger would have the effect of substantially lessening competition. The Eighth Circuit reversed, finding that the FTC had failed to prove its geographic market, and therefore could not show that the merged parties would possess market power, and the FTC dismissed its administrative complaint. 186 F.3d 1045 (8th. Cir. 1999). Read the FTC case summary and find pleadings <a title='Tenet 1998 FTC Summary' href='http://www.ftc.gov/enforcement/cases-proceedings/9710090/tenet-healthcare-corporation-inc-poplar-bluff-physicians-group' target='_blank'>here</a>.</p>"
+        },
+         "background": {
+         "color": "#c7cfd3"
+        }
+       },
+       {
+        "start_date": {
+          "month": "8",
+          "day": "2",
+          "year": "2007"
+        },
+        "text": {
+          "headline": "FTC Orders Divestitures and Conditions in Chicago Area Hospital Merger",
+          "text": "<p>In 2004, four years after its consummation, the FTC challenged the 2000 acquisition of Highland Park Hospital by Evanston Northwestern Healthcare Corporation, claiming that shortly after merging, ENH instituted price increases for all three hospitals that were significantly higher than price increases for other comparable hospitals, forcing payers to accept the increases or lose the three hospitals from their networks. The FTC won the administrative case, and its <a title='Evanston Admin Appellate Order' href='http://www.ftc.gov/sites/default/files/documents/cases/2008/04/080428commopiniononremedy.pdf' target='_blank'>order</a> required the following remedies to restore competition: Evanston Northwestern had to establish separate independent contract negotiating teams that will allow managed care organizations to negotiate separately for the competing hospitals, and Evanston Northwestern would have to give prior notification for ten years to the Commission for any future hospital acquisition in that market. Find the FTC case summary and related documents <a title='Evanston FTC Summary' href='http://www.ftc.gov/enforcement/cases-proceedings/0110234/evanston-northwestern-healthcare-corporation-enh-medical-group' target='_blank'>here</a>. A plaintiff class was recently <a title='Evamston class cert order' href='https://www.dropbox.com/s/zsy4urjx93wujzm/Evanston%20Post-remand%20Opin.%20%26%20Order%20Granting%20Class%20Cert.%20Motion.pdf' target='_blank'>certified</a> in the related private suit in federal court in Illinois, 13 years after the original transaction.</p>"
+        },
+         "background": {
+         "color": "#67af97"
+        }
+       }
     ]
 }
