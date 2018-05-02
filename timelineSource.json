@@ -97,6 +97,62 @@
          "background": {
          "color": "#67af97"
         }
+       },
+       {
+        "start_date": {
+          "month": "6",
+          "day": "17",
+          "year": "2008"
+        },
+        "text": {
+          "headline": "FTC Drops Challenge to Northern VA Hospital Merger After Parties Abandon Deal",
+          "text": "<p>On May 8, 2008, the FTC and Virginia Attorney General's Office filed a motion for a temporary restraining order and preliminary injunction to block the acquisition of Prince William Hospital by Inova Health System pending the outcome of an administrative trial on the merits. According to the proposed deal, the merger would have put Inova in control of 73% of the licensed beds in Northern Virginia, which the FTC argued would result in significantly higher prices and reduced non-price competition. Shortly after a preliminary district court hearing, the parties announced they had abandoned the transaction, and the FTC dismissed its  complaint. Find the FTC's case summary and related documents <a title='FTC case summary Inova' href='http://www.ftc.gov/enforcement/cases-proceedings/061-0166/inova-health-systems-foundation-prince-william-health-system' target='_blank'>here</a>.</p>"
+        },
+         "background": {
+         "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "11",
+          "day": "18",
+          "year": "2011"
+        },
+        "text": {
+          "headline": "IL Hospital OSF Abandons Efforts to Acquire Rockford Health Amid FTC Suit",
+          "text": "<p>The FTC filed an administrative complaint challenging OSF Healthcare System’s proposed acquisition of Rockford Health System. The complaint charged that the proposed acquisition would substantially reduce competition among hospitals and primary care physicians in Rockford, Illinois and result in significant harm to local business and patients. The FTC simultaneously filed a complaint in federal district court seeking an order to enjoin the transaction temporarily to preserve competition for Rockford area residents pending the FTC’s administrative proceeding and any subsequent appeals. The Commission later dismissed the complaint on April 13, 2012 after OSF abandoned the transaction.  Find the FTC case summary and related documents <a title='OSF case summary' href='http://www.ftc.gov/enforcement/cases-proceedings/1110102/osf-healthcare-system-rockford-health-system-matter' target='_blank'>here</a>."
+        },
+         "background": {
+         "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "04",
+          "day": "10",
+          "year": "2012"
+        },
+        "text": {
+          "headline": "FTC Settles Merger Challenge by Requiring Nevada Provider to Axe Non-Competes with Physicians",
+          "text": "<p>Renown Health settled with the FTC on charges resulting from its acquisition of multiple cardiology practices in Reno, NV. The FTC <a href='http://www.ftc.gov/news-events/press-releases/2012/12/ftc-approves-final-order-restoring-competition-adult-cardiology' target='_blank'>announced</a> that, under the settlement order, Renown Health, the largest provider of acute care hospital services in northern Nevada, would release its cardiologist employees from non-compete contract clauses, allowing up to 10 of them to join competing cardiology practices in the Reno area. These changes to the contractual terms between the provider and physicians allowed Renown to avoid divestitures as a competitive solution. Find the FTC case summary and related documents <a title='Renown FTC Summary' href='http://www.ftc.gov/enforcement/cases-proceedings/1110101/renown-health-matter'>here</a>.</a>."
+        },
+         "background": {
+         "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "2",
+          "day": "19",
+          "year": "2013"
+        },
+        "text": {
+          "headline": "US Supreme Court Rules State Action Doctrine Does not Apply in GA Hospital Merger Case",
+          "text": "<p>After a merger challenge by the FTC that went all the way to the U.S. Supreme Court, the Hospital Authority of Albany-Dougherty County and Phoebe Putney Health System <a href='http://www.ftc.gov/news-events/press-releases/2013/08/hospital-authority-and-phoebe-putney-health-system-settle-ftc' target='_blank'>agreed to settle</a>. In April 2011, the FTC challenged the acquisition as having anticompetitive effects and alleging that Phoebe had structured the deal to improperly take advantage of the <a href='http://competitivehealthcare.org/glossary/state-action-doctrine/>state action doctrine</a>. On June 27, 2011 the district court dismissed the FTC’s complaint, ruling that Phoebe Putney was immune from <a href='http://competitivehealthcare.org/glossary/antitrust/''>antitrust</a> liability under the <a href='http://competitivehealthcare.org/glossary/state-action-doctrine/'>state action doctrine</a>. The Eleventh Circuit <a title='11th Cir. Phoebe Putney' href='http://www.ca11.uscourts.gov/opinions/ops/201112906.pdf' target='_blank'>affirmed</a>. The Supreme Court <a title='Putney Supreme Court slip op' href='http://www.supremecourt.gov/opinions/12pdf/11-1160_1824.pdf' target='_blank'>reversed</a>, ruling that the state of Georgia has no clearly articulated a policy that allows hospital authorities to make acquisitions that substantially lessen competition, after which the parties settled. Find the FTC case summary and related documents <a title='Phoebe Putney FTC summary' href='http://www.ftc.gov/enforcement/cases-proceedings/1110067/phoebe-putney-health-system-inc'>here</a>.</a>."
+        },
+         "background": {
+         "color": "#67af97"
+        }
        }
     ]
 }
