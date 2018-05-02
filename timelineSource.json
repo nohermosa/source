@@ -517,6 +517,34 @@
          "background": {
          "color": "#c7cfd3"
         }
+       },
+       {
+        "start_date": {
+          "month": "12",
+          "day": "13",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "FTC Wins Temporary Injunction against Merger of North Dakota Hospitals",
+          "text": "<p>On December 13, 2017, a federal judge for the U.S. District for the District of North Dakota <a href='https://www.ftc.gov/system/files/documents/cases/1710019_sanfordpiorder.pdf'>granted</a> the FTC a preliminary injunction to block the merger of Sanford Health (Sioux Falls, SD) and Mid Dakota (Bismarck, ND). The FTC sued in June 2017, challenging the merger of the two hospital systems on the grounds that it would reduce competition for healthcare services in the region, resulting in higher prices and lower quality of services. An administrative trial will be held at the FTC beginning January 17, 2018. Read the FTC <a href='https://www.ftc.gov/news-events/press-releases/2017/12/statement-federal-trade-commission-acting-bureau-competition'>press release</a> and follow the case on the Source blog and FTC <a href='https://www.ftc.gov/enforcement/cases-proceedings/171-0019/sanford-health-ftc-state-north-dakota-v'>case page</a>."
+        },
+         "background": {
+         "color": "#67af97"
+        }
+       },
+       {
+        "start_date": {
+          "month": "12",
+          "day": "13",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Michigan Hospital Strikes Deal to End Three Years of Litigation in Antitrust Suit",
+          "text": "<p><div>On February 9, 2018, Henry Ford Allegiance Health struck a deal with the DOJ to settle antitrust claims originally filed in June 2015 against four Michigan hospitals. The original complaint accused the hospitals of anticompetitive marketing practices in violation of Sherman Act §1 and Michigan state law. While the three other hospitals settled with the government back in 2015 (see Source Blog), Henry Ford Allegiance contested the charges and finally settled one month before trial. As part of the settlement, the hospital agreed to end its anticompetitive practices and to submit to compliance inspections by the DOJ. Read the DOJ <a href='https://www.justice.gov/opa/pr/justice-department-reaches-settlement-henry-ford-allegiance-health-antitrust-charges'>press release</a> and Source Blog update on the case.</div>"
+        },
+         "background": {
+         "color": "#ffac67"
+        }
        }
     ]
 }
