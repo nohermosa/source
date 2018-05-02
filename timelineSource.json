@@ -40,7 +40,31 @@
         },
          "background": {
          "color": "#c7cfd3"
-        }       
+        },                      
+        "start_date": {
+          "month": "7",
+          "day": "29",
+          "year": "1997"
+        },
+        "text": {
+          "headline": "FTC Settles with Tenet Healthcare, Requires Divestitures",
+          "text": "<p>The FTC settled charges that the acquisition of OrNda Healthcorp by Tenet Healthcare Corp. would substantially lessen competition for general acute care services in the San Luis Obispo, California area. The consent order required Tenet to divest some merger assets, and to notify the FTC of certain actions for a period of ten years. Find the FTC case summary and related documents <a title='FTC Tenet Summary 1997' href='http://www.ftc.gov/enforcement/cases-proceedings/9710024/tenet-healthcare-corporation' target='_blank'>here.</a></p>"
+        },
+         "background": {
+         "color": "#ffac67"
+        },
+        "start_date": {
+          "month": "9",
+          "day": "26",
+          "year": "1997"
+        },
+        "text": {
+          "headline": "Sixth Circuit Affirms Dismissal of FTC Challenge to Michigan Hospital Merger",
+          "text": "<p>In January 1996, the FTC filed a preliminary injunction to block the combination of the two largest acute care hospitals in Grand Rapids, Michigan, Butterworth Hospital and Blodgett Memorial Medical Center. The district court judge denied the request, ruling that although the FTC had demonstrated that the merged party would have substantial market power in the relevant markets, it had failed to show that the merged non-profit entity would exercise its market power to harm consumers, and the Six Circuit affirmed. 121 F. 3d 708 (6th Cir. 1997). Find the FTC case summary and related documents <a title='Butterworth FTC case summary' href='http://www.ftc.gov/enforcement/cases-proceedings/9510126/butterworth-health-corporation-blodgett-memorial-medical'>here</a>.</p>"
+        },
+         "background": {
+         "color": "#c7cfd3"
+        },
       }
     ]
 }
