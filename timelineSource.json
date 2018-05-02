@@ -335,6 +335,90 @@
          "background": {
          "color": "#67af97"
         }
+       },
+       {
+        "start_date": {
+          "month": "6",
+          "day": "29",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "FTC Cautions Minnesota that Transparency Legislation Could Harm Competition",
+          "text": "<p>On June 29, 2015 the Federal Trade Commission (FTC) responded to a request from two Minnesota state legislators to analyze the competitive impact of recent amendments to the Minnesota Government Data Practices Act (MGDPA). The amendments may require health plans contracting with the state to make information normally deemed competitively sensitive available to the public. The FTC expressed concern that this change would harm consumers by increasing the potential for collusion and decreasing the use of selective contracting. Read the FTC's <a href='https://www.ftc.gov/news-events/press-releases/2015/07/ftc-staff-urges-minnesota-legislature-weigh-benefits-risks'>Press Release</a> and <a href='https://www.ftc.gov/news-events/blogs/competition-matters/2015/07/price-transparency-or-tmi?utm_source=govdelivery'>Blog Post</a>."
+        },
+         "background": {
+         "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "9",
+          "day": "18",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "DOJ Issues Second Request in proposed Humana-Aetna deal",
+          "text": "<p>On September 18, 2015, DOJ issued a second request for additional information from Aetna and Humana in connection with the companies' proposed $37 billion deal. According to the <a href='http://www.wsj.com/articles/justice-department-delays-ruling-on-aetna-humana-merger-1442615133'>Wall Street Journal</a>, the companies still expect the deal to close in the second half of 2016."
+        },
+         "background": {
+         "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "11",
+          "day": "6",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "FTC Files to Block Hospital Merger in West Virginia",
+          "text": "<p>On November 6, 2015, the FTC's <a href='https://www.ftc.gov/news-events/press-releases/2015/11/ftc-challenges-proposed-merger-two-west-virginia-hospitals'>press release</a> announced it had authorized action to block Cabell Huntington Hospital’s proposed acquisition of St. Mary’s Medical Center – two hospitals located three miles apart in Huntington, West Virginia. The FTC issued an administrative complaint alleging that the combination would create a dominant firm with a near monopoly over general acute care inpatient hospital services and outpatient surgical services in the adjacent counties of Cabell, Wayne, and Lincoln, West Virginia and Lawrence County, Ohio likely leading to higher prices and lower quality of care than would be the case without the acquisition."
+        },
+         "background": {
+         "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "12",
+          "day": "8",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "FTC and Penn AG Challenge Hospital Merger",
+          "text": "<p>The FTC <a href='https://www.ftc.gov/news-events/press-releases/2015/12/ftc-pennsylvania-office-attorney-general-challenge-penn-state'>announced</a> it had authorized an action, filed jointly with Pennsylvania's AG to block Penn State Hershey Medical Center’s proposed merger with PinnacleHealth System, alleging that the combination of the two health care providers would substantially reduce competition in the area surrounding Harrisburg, Pennsylvania, and lead to reduced quality and higher health care costs for the area’s employers and residents."
+        },
+         "background": {
+         "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "12",
+          "day": "18",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "FTC Seeks to Block Chicago-area Hospital Merger",
+          "text": "<p>In December 2015, the Federal Trade Commission <a href='http://1.usa.gov/1k6HsvJ'>announced</a> it had authorized action to block the proposed merger of Advocate Health Care Network and NorthShore University HealthSystem, two leading providers of general acute care inpatient hospital services in the North Shore area of Chicago. The FTC issued an administrative complaint alleging that the proposed merger will create the largest hospital system in the North Shore area."
+        },
+         "background": {
+         "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "12",
+          "day": "18",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "PA Orthopedists Agree to Settle with FTC Over Anticompetitive Merger",
+          "text": "<p>On December 18, 2015, Keystone Orthopaedic Specialists, LLC, an orthopedic practice formed through a combination of six independent orthopedic practices, agreed to settle charges that the merger substantially reduced competition for orthopedic services in Berks County, Pennsylvania. Under the terms of the settlement, contained in this administrative <a href='https://www.ftc.gov/system/files/documents/cases/151218keystonedo.pdf'>order</a>, Keystone and another practice, Orthopaedic Associates are required to obtain prior approval from the Commission before acquiring any interests in each other, before acquiring another orthopedic practice in Berks County, and before hiring or offering membership to an orthopedist who has provided services in Berks County in the past year. According to the FTC, the settlement is designed to maintain competition in the relevant market by preserving Orthopaedic Associates’ separation, and allowing health plans to avail themselves of current market conditions by renegotiating existing Keystone contracts. The FTC's full case summary and more documents can be found <a href='https://www.ftc.gov/enforcement/cases-proceedings/141-0025/keystone-orthopaedic-specialists-llc-orthopaedic-associates'>here</a>.."
+        },
+         "background": {
+         "color": "#ffac67"
+        }
        }
     ]
 }
