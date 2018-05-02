@@ -40,7 +40,9 @@
         },
          "background": {
          "color": "#c7cfd3"
-        },                      
+        }
+      },
+      {                      
         "start_date": {
           "month": "7",
           "day": "29",
@@ -52,7 +54,9 @@
         },
          "background": {
          "color": "#ffac67"
-        },
+        }
+      },
+      {
         "start_date": {
           "month": "9",
           "day": "26",
@@ -64,7 +68,7 @@
         },
          "background": {
          "color": "#c7cfd3"
-        }
+      }
       }
     ]
 }
