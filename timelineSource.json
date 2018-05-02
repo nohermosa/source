@@ -414,10 +414,108 @@
         },
         "text": {
           "headline": "PA Orthopedists Agree to Settle with FTC Over Anticompetitive Merger",
-          "text": "<p>On December 18, 2015, Keystone Orthopaedic Specialists, LLC, an orthopedic practice formed through a combination of six independent orthopedic practices, agreed to settle charges that the merger substantially reduced competition for orthopedic services in Berks County, Pennsylvania. Under the terms of the settlement, contained in this administrative <a href='https://www.ftc.gov/system/files/documents/cases/151218keystonedo.pdf'>order</a>, Keystone and another practice, Orthopaedic Associates are required to obtain prior approval from the Commission before acquiring any interests in each other, before acquiring another orthopedic practice in Berks County, and before hiring or offering membership to an orthopedist who has provided services in Berks County in the past year. According to the FTC, the settlement is designed to maintain competition in the relevant market by preserving Orthopaedic Associates’ separation, and allowing health plans to avail themselves of current market conditions by renegotiating existing Keystone contracts. The FTC's full case summary and more documents can be found <a href='https://www.ftc.gov/enforcement/cases-proceedings/141-0025/keystone-orthopaedic-specialists-llc-orthopaedic-associates'>here</a>.."
+          "text": "<p>On December 18, 2015, Keystone Orthopaedic Specialists, LLC, an orthopedic practice formed through a combination of six independent orthopedic practices, agreed to settle charges that the merger substantially reduced competition for orthopedic services in Berks County, Pennsylvania. Under the terms of the settlement, contained in this administrative <a href='https://www.ftc.gov/system/files/documents/cases/151218keystonedo.pdf'>order</a>, Keystone and another practice, Orthopaedic Associates are required to obtain prior approval from the Commission before acquiring any interests in each other, before acquiring another orthopedic practice in Berks County, and before hiring or offering membership to an orthopedist who has provided services in Berks County in the past year. According to the FTC, the settlement is designed to maintain competition in the relevant market by preserving Orthopaedic Associates’ separation, and allowing health plans to avail themselves of current market conditions by renegotiating existing Keystone contracts. The FTC's full case summary and more documents can be found <a href='https://www.ftc.gov/enforcement/cases-proceedings/141-0025/keystone-orthopaedic-specialists-llc-orthopaedic-associates'>here</a>."
+        },
+         "background": {
+         "color": "#67af97"
+        }
+       },
+       {
+        "start_date": {
+          "month": "5",
+          "day": "9",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "FTC Loses Bid for Preliminary Injunction in PA Merger Challenge",
+          "text": "<p>On May 9, 2016 a federal district judge in Pennsylvania denied the FTC's motion for preliminary injunction, which would pause the merger of Penn State Hershey Medical Center and Pinnacle Health System, pending the Commission's administrative challenge to the deal. The court <a href='http://www.pamd.uscourts.gov/sites/default/files/opinions/15v2362.pdf'>ruled</a> that the FTC had not made a sufficient showing that the deal would harm competition. The FTC, despite the loss, plans to go forward with its challenge to the merger. For analysis of the FTC's recent losing streak, see Professor Tim Greaney's <a href='http://sourceonhealthcare.org/the-ftcs-hospital-merger-program-coming-a-cropper/'>post</a> on the Source Blog."
+        },
+         "background": {
+         "color": "#c7cfd3"
+        }
+       },
+       {
+        "start_date": {
+          "month": "6",
+          "day": "14",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "FTC Loses Bid for Preliminary Injunction in Chicago Hospital Merger Challenge",
+          "text": "<p>A federal judge in Chicago declined to grant the FTC's request for a preliminary injunction to temporarily stop a merger between Downers Grove, Ill.-based Advocate Health Care and Evanston, Ill.-based NorthShore University HealthSystem. The decision was the second loss in a row for the FTC, which was also denied a preliminary injunction in a Pennsylvania hospital merger case last month, after years of successful merger challenges. For analysis of the FTC's recent losing streak, see Professor Tim Greaney's <a href='http://sourceonhealthcare.org/the-ftcs-hospital-merger-program-coming-a-cropper/'>post</a> on the Source Blog."
         },
          "background": {
          "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "6",
+          "day": "22",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "WV Health Care Authority Approves Merger FTC Tried to Block",
+          "text": "<p>On June 22, 2016, the West Virginia Healthcare Authority <a href='http://www.hca.wv.gov/About/Documents/Decision.pdf'>approved</a> the merger of Cabell Huntington and St. Mary's hospitals, a deal the FTC had tried to block last November. The WV state legislature's SB 597, which gave the Attorney General and Health Care Authority Jurisdiction over cooperative agreements like the one at issue here and provided for an exemption from federal antitrust scrutiny, went into effect in March 2016. This decision raises the issue of whether state action immunity insulates WV from federal merger enforcement authority. We await the FTC's response."
+        },
+         "background": {
+         "color": "#ffac67"
+        }
+       },
+       {
+        "start_date": {
+          "month": "1",
+          "day": "22",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "District Court blocks Aetna-Humana Merger",
+          "text": "<p>On January 23, 2017, the United States District Court for the District of Columbia blocked the $37 billion merger between insurance companies Aetna and Humana. The <a href='http://sourceonhealthcare.org/wp-content/uploads/2017/01/Aetna-Humana-opinion.pdf'>decision</a> concluded that the merger would likely substantially lessen competition, and that the insurers' proffered efficiencies would not offset the anticompetitive effects of the merger."
+        },
+         "background": {
+         "color": "#67af97"
+        }
+       },
+       {
+        "start_date": {
+          "month": "2",
+          "day": "8",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "District Court blocks Anthem-Cigna Merger",
+          "text": "<p>On February 8, 2017, the District Court for the District of Columbia concluded that the Anthem-Cigna merger violated federal antitrust law. The court found that the merger unlawfully restrained competition in the market for insurance sold to national accounts (employers with 5,000 or more employees) in fourteen states."
+        },
+         "background": {
+         "color": "#67af97"
+        }
+       },
+       {
+        "start_date": {
+          "month": "4",
+          "day": "28",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "2nd Circuit Affirms District Court Decision to Block Anthem-Cigna Merger",
+          "text": "<p>On April 28, 2017, a divided panel of the Second Circuit Court of Appeals <a href='https://www.justice.gov/atr/case-document/file/971316/download'>affirmed</a> the US District Court's decision, which sided with the Department of Justice (DOJ) argument that the proposed merger violated Section 7 of the Clayton Antitrust Act.  Anthem Inc. announced on May 12, 2017, after Delaware's Court of Chancery denied its request for a preliminary injunction against Cigna, that it would no longer seek to acquire Cigna Corporation."
+        },
+         "background": {
+         "color": "#67af97"
+        }
+       },
+       {
+        "start_date": {
+          "month": "9",
+          "day": "19",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Tennessee Department of Health grants certificate of public advantage (COPA) over FTC protests",
+          "text": "<p>On September 19, 2017, after more than two years of opposition from the FTC, the Tennessee Department of Health granted a certificate of public advantage (COPA), exempting the merger of Mountain States Health Alliance and Wellmont Health System from federal antitrust scrutiny. In consultation with the Tennessee attorney general, the Tenessese Department of Health disagreed with the FTC and decided that the benefits to the residents of Northeast Tennessee would outweigh any downsides of creating a monopoly in certain healthcare services. In order to ensure these benefits, the COPA included certain conditions that increased state supervision, accountability and transparency. The systems await a decision from the Virginia Department of Health on its COPA approval before they may consummate their transaction."
+        },
+         "background": {
+         "color": "#c7cfd3"
         }
        }
     ]
