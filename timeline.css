@@ -2117,14 +2117,14 @@
     color:#b3b3b3
 }
 .tl-full-color-background .tl-text,.tl-full-color-background .tl-text p,.tl-full-image-background .tl-text,.tl-full-image-background .tl-text p{
-    color:#f2f2f2!important;
-    text-shadow:1px 1px 2px #000
+    color:#fffff !important;
+    text-shadow:none !important:
 }
 .tl-full-color-background .tl-text .tl-headline-date,.tl-full-color-background .tl-text h3.tl-headline-date,.tl-full-color-background .tl-text p .tl-headline-date,.tl-full-color-background .tl-text p h3.tl-headline-date,.tl-full-image-background .tl-text .tl-headline-date,.tl-full-image-background .tl-text h3.tl-headline-date,.tl-full-image-background .tl-text p .tl-headline-date,.tl-full-image-background .tl-text p h3.tl-headline-date{
-    color:#f2f2f2!important
+    color:#fffff !important
 }
 .tl-full-color-background .tl-text .tl-headline-date small,.tl-full-color-background .tl-text h3.tl-headline-date small,.tl-full-color-background .tl-text p .tl-headline-date small,.tl-full-color-background .tl-text p h3.tl-headline-date small,.tl-full-image-background .tl-text .tl-headline-date small,.tl-full-image-background .tl-text h3.tl-headline-date small,.tl-full-image-background .tl-text p .tl-headline-date small,.tl-full-image-background .tl-text p h3.tl-headline-date small{
-    color:#f2f2f2!important
+    color:#fffff !important
 }
 .tl-skinny .tl-text{
     width:100%;
