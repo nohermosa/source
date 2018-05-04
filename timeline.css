@@ -669,7 +669,7 @@
     text-transform:uppercase;
     margin-top:7.5px;
     margin-bottom:7.5px;
-    text-shadow:1px 1px 1px #FFF
+    
 }
 .tl-message .tl-message-container .tl-message-content strong,.tl-message-full .tl-message-container .tl-message-content strong{
     text-transform:uppercase
@@ -1343,7 +1343,6 @@
 }
 .tl-timegroup .tl-timegroup-message{
     color:#e0e0e0;
-    text-shadow:#FFF 0 2px 2px;
     margin-left:80px
 }
 .tl-timegroup.tl-timegroup-alternate{
@@ -1596,33 +1595,33 @@
 }
 .tl-slide.tl-full-color-background,.tl-slide.tl-full-image-background{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important
+    
 }
 .tl-slide.tl-full-color-background h1,.tl-slide.tl-full-color-background h2,.tl-slide.tl-full-color-background h3,.tl-slide.tl-full-color-background h4,.tl-slide.tl-full-color-background h5,.tl-slide.tl-full-color-background h6,.tl-slide.tl-full-color-background p,.tl-slide.tl-full-image-background h1,.tl-slide.tl-full-image-background h2,.tl-slide.tl-full-image-background h3,.tl-slide.tl-full-image-background h4,.tl-slide.tl-full-image-background h5,.tl-slide.tl-full-image-background h6,.tl-slide.tl-full-image-background p{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important
+    
 }
 .tl-slide.tl-full-color-background a,.tl-slide.tl-full-color-background a:hover,.tl-slide.tl-full-color-background b,.tl-slide.tl-full-color-background blockquote,.tl-slide.tl-full-color-background blockquote p,.tl-slide.tl-full-color-background i,.tl-slide.tl-full-image-background a,.tl-slide.tl-full-image-background a:hover,.tl-slide.tl-full-image-background b,.tl-slide.tl-full-image-background blockquote,.tl-slide.tl-full-image-background blockquote p,.tl-slide.tl-full-image-background i{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important;
+    
     color:#fff
 }
 .tl-slide.tl-full-color-background .tl-caption,.tl-slide.tl-full-color-background .tl-credit,.tl-slide.tl-full-image-background .tl-caption,.tl-slide.tl-full-image-background .tl-credit{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important
+    
 }
 .tl-slide.tl-full-color-background .tl-media-blockquote blockquote,.tl-slide.tl-full-color-background .tl-media-twitter blockquote,.tl-slide.tl-full-image-background .tl-media-blockquote blockquote,.tl-slide.tl-full-image-background .tl-media-twitter blockquote{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important
+    
 }
 .tl-slide.tl-full-color-background .tl-media-blockquote blockquote p,.tl-slide.tl-full-color-background .tl-media-twitter blockquote p,.tl-slide.tl-full-image-background .tl-media-blockquote blockquote p,.tl-slide.tl-full-image-background .tl-media-twitter blockquote p{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important
+    
 }
 .tl-slide.tl-full-color-background .vcard .nickname,.tl-slide.tl-full-color-background .vcard a,.tl-slide.tl-full-image-background .vcard .nickname,.tl-slide.tl-full-image-background .vcard a{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important
-}
+    }
+
 .tl-slide.tl-full-image-background{
     background:no-repeat center center;
     -webkit-background-size:cover;
@@ -1630,19 +1629,19 @@
     -o-background-size:cover;
     background-size:cover;
     background-position:center 25%;
-    text-shadow:1px 1px 2px #000
+   
 }
 .tl-slide.tl-full-image-background h1,.tl-slide.tl-full-image-background h2,.tl-slide.tl-full-image-background h3,.tl-slide.tl-full-image-background h4,.tl-slide.tl-full-image-background h5,.tl-slide.tl-full-image-background h6,.tl-slide.tl-full-image-background p{
-    text-shadow:1px 1px 2px #000
+    
 }
 .tl-slide.tl-full-image-background .tl-caption,.tl-slide.tl-full-image-background .tl-credit{
-    text-shadow:1px 1px 2px #000
+    
 }
 .tl-slide.tl-full-image-background .tl-media-blockquote blockquote,.tl-slide.tl-full-image-background .tl-media-twitter blockquote{
-    text-shadow:1px 1px 2px #000!important
+    
 }
 .tl-slide.tl-full-image-background .tl-media-blockquote blockquote p,.tl-slide.tl-full-image-background .tl-media-twitter blockquote p{
-    text-shadow:1px 1px 2px #000!important
+    
 }
 .tl-slide.tl-text-background .tl-text .tl-text-content-container{
     padding:20px;
@@ -1760,12 +1759,12 @@
     display:none
 }
 .tl-slidenav-next .tl-slidenav-content-container .tl-slidenav-description,.tl-slidenav-next .tl-slidenav-content-container .tl-slidenav-icon,.tl-slidenav-next .tl-slidenav-content-container .tl-slidenav-title,.tl-slidenav-previous .tl-slidenav-content-container .tl-slidenav-description,.tl-slidenav-previous .tl-slidenav-content-container .tl-slidenav-icon,.tl-slidenav-previous .tl-slidenav-content-container .tl-slidenav-title{
-    text-shadow:1px 1px 1px #FFF;
+    
     color:#333
 }
 .tl-slidenav-next .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-description,.tl-slidenav-next .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-icon,.tl-slidenav-next .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-title,.tl-slidenav-previous .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-description,.tl-slidenav-previous .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-icon,.tl-slidenav-previous .tl-slidenav-content-container.tl-slidenav-inverted .tl-slidenav-title{
     color:#f2f2f2;
-    text-shadow:1px 1px 1px #333
+    
 }
 .tl-slidenav-next .tl-slidenav-icon,.tl-slidenav-previous .tl-slidenav-icon{
     font-family:tl-icons;
@@ -2019,7 +2018,7 @@
 }
 .tl-slide.tl-full-color-background .vcard a,.tl-slide.tl-full-color-background a,.tl-slide.tl-full-image-background .vcard a,.tl-slide.tl-full-image-background a{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important;
+    
     color:#fff
 }
 .tl-credit{
@@ -2327,7 +2326,7 @@
 }
 .tl-slide.tl-full-color-background .tl-media .tl-media-wikipedia h4 a,.tl-slide.tl-full-image-background .tl-media .tl-media-wikipedia h4 a{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important
+    
 }
 .tl-slide.tl-full-color-background .tl-media .tl-media-wikipedia .tl-wikipedia-title,.tl-slide.tl-full-image-background .tl-media .tl-media-wikipedia .tl-wikipedia-title{
     border-color:rgba(230,230,230,.25)
@@ -2391,7 +2390,7 @@
 }
 .tl-slide.tl-full-color-background .tl-media .tl-media-website h4 a,.tl-slide.tl-full-image-background .tl-media .tl-media-website h4 a{
     color:#FFF!important;
-    text-shadow:1px 1px 1px #000!important
+    
 }
 .tl-mobile.tl-skinny .tl-media .tl-media-website{
     margin-left:10px;
